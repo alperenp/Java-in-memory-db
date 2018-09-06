@@ -8,7 +8,7 @@ import javax.persistence.Id;
 /**
  * Object class to be written in database
  * 
- * @author pulur
+ * @author alperenp
  *
  */
 @Entity
